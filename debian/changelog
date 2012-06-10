@@ -1,3 +1,32 @@
+libnetfilter-cttimeout (0.2+oxnard3) unstable; urgency=low
+
+  * Merging pacifica for cthelper 
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Sun, 10 May 2012 11:41:45 -0800
+
+libnetfilter-cttimeout (1.0.0-2) unstable; urgency=low
+
+  * Fixing nfct compilation dependencies with libnetfilter-cttimeout
+    update
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Mon, 04 Jun 2012 21:00:09 -0700
+
+libnetfilter-cttimeout (1.0.0-1) unstable; urgency=low
+
+  * Update 
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Mon, 04 Jun 2012 19:57:29 -0700
+
+libnetfilter-cttimeout (0.5) unstable; urgency=low
+
+  [ Pablo Neira Ayuso ]
+  * src: improvements for the doxygen documentation
+  * src: add new parameter type to nfct_timeout_snprintf
+  * src: more minor improvements for the doxygen documentation
+  * build: fix broken Makefile.am in include/linux/
+
+  [ Gaurav Sinha ]
+
 libnetfilter-cttimeout (0.2+oxnard2) unstable; urgency=low
 
   * fixing issues with cttimeout library compilation
