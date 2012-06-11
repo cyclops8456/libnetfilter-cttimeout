@@ -1,3 +1,15 @@
+libnetfilter-cttimeout (0.2+oxnard4) unstable; urgency=low
+
+  [ Deepti Kulkarni ]
+  * new branch
+  * 0.2+oxnard1
+
+  [ Gaurav Sinha ]
+  * fixing issues with cttimeout library compilation
+  * 0.2+oxnard2
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Mon, 11 Jun 2012 16:23:51 -0700
+
 libnetfilter-cttimeout (0.2+oxnard3) unstable; urgency=low
 
   * Merging pacifica for cthelper 
